@@ -7,7 +7,7 @@
 
 ### 📝 Talking about Personal Stuffs:
 
-- 🚀 I'm currently learning Go, Python.
+- 🚀 I'm currently learning ,Java,Go, Python.
 - 📫 How to reach me: [karaaslansonay06@gmail.com](mailto:karaaslansonay06@gmail.com).
 
 
