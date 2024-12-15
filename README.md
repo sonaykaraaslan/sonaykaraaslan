@@ -22,8 +22,3 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaykaraaslan&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
