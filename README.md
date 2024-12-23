@@ -7,7 +7,7 @@
 
 ### 📝 Talking about Personal Stuffs:
 
-- 🚀 I'm currently learning Java,Go, Python.
+- 🚀 I'm currently learning Java,Python.
 - 📫 How to reach me: [karaaslansonay06@gmail.com](mailto:karaaslansonay06@gmail.com).
 
 
@@ -21,7 +21,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?logo=dotnet&logoColor=white)
+
 
 
 
