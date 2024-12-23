@@ -20,5 +20,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?logo=dotnet&logoColor=white)
+
 
 
